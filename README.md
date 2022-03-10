@@ -5,7 +5,7 @@
   <h3> 🤝🏻 Terhubung Dengan Saya Di: </h3>
 
 <p align="center">
-&nbsp; <a href="https://www.facebook.com/rayhan.27.xyx" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/facebook.png" width="50" /></a>  
+&nbsp; <a href="https://www.facebook.com/rayhan.27.xyz" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/facebook.png" width="50" /></a>  
 &nbsp; <a href="https://api.whatsapp.com/send/?phone=6289643500499&text=haii bang" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/whatsapp" width="50" /></a>  
 &nbsp; <a href="https://instagram.com/rayhanzuck_" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram" width="50" /></a>
 &nbsp; <a href="mailto: muhammadrayhan2727@gmail.com@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
