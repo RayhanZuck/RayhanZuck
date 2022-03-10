@@ -6,9 +6,9 @@
 
 <p align="center">
 &nbsp; <a href="https://www.facebook.com/rayhan.27.xyz" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/facebook.png" width="50" /></a>  
-&nbsp; <a href="https://api.whatsapp.com/send/?phone=6289643500499&text=haii bang" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/whatsapp" width="50" /></a>  
+&nbsp; <a href="https://api.whatsapp.com/send/?phone=6289643500499&text=haii bang aku ngefans sama kamu" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/whatsapp" width="50" /></a>  
 &nbsp; <a href="https://instagram.com/rayhanzuck_" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram" width="50" /></a>
-&nbsp; <a href="mailto:muhammadrayhan2727@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+&nbsp; <a href="mailto:email@domain.com?subject=Hai%20Bang&body=Haii%20Bang%20aku%20ngefans%20sama%20kamu" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RayhanZuck&show_icons=true&locale=id" alt="RayhanZuck"/></p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=RayhanZuck&label=Profile%20views&color=0e75b6&style=flat" alt="RayhanZuck"/></p>
