@@ -2,15 +2,15 @@
   
   <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
   </a>
-  <a href="https://github.com/RayhanZuck/FBShare">
-    <img alt="1 ^" src="https://img.shields.io/static/v1?label=Jumlah Repository&message=1&color=brightgreen"/>
-  </a>
-  <a href="https://www.facebook.com/Rayhan.27.Xyz">
-    <img alt="Starts" src="https://img.shields.io/badge/facebook:%20Rayhan%20Cringe%20Ajg-344E86?style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a>
-  <a href="https://github.com/RayhanZuck">
-    <img alt="Forks" src="https://img.shields.io/badge/Github:%20RayhanZuck-lightgrey?style=for-the-badge&logo=github&logoColor=white"/>
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RayhanZuck&show_icons=true&locale=id" alt="RayhanZuck"/></p>
+  <h3> 🤝🏻 Terhubung Dengan Saya Di: </h3>
+
+<p align="center">
+&nbsp; <a href="https://www.facebook.com/rayhan.27.xyx" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/facebook.png" width="50" /></a>  
+&nbsp; <a href="https://api.whatsapp.com/send/?phone=6289643500499&text=haii bang" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/whatsapp" width="50" /></a>  
+&nbsp; <a href="https://instagram.com/rayhanzuck_" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram" width="50" /></a>
+&nbsp; <a href="mailto: muhammadrayhan2727@gmail.com@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RayhanZuck&show_icons=true&locale=id" alt="RayhanZuck"/></p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=RayhanZuck&label=Profile%20views&color=0e75b6&style=flat" alt="RayhanZuck"/></p>
 </a>
 </div>
