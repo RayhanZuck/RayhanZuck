@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="300"/>
   </a>
   <h3> 🤝🏻 Terhubung Dengan Saya Di: </h3>
 
