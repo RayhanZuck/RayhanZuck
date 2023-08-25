@@ -1,17 +1,6 @@
 [
-	{
-	"image": "https://telegra.ph/file/739ba69ab53bf37302182.mp4"
-    },
-    {
-	"image": "https://telegra.ph/file/4bb0910c95a248a9775cd.mp4
-    },
-    {
-	"image": "https://kosred.com/a/lmgzpi.mp4"
-	},
-	{
-	"image": "https://kosred.com/a/vcgycm.mp4"
-    }
-
-
-
+  { image: 'https://telegra.ph/file/739ba69ab53bf37302182.mp4' },
+  { image: 'https://telegra.ph/file/4bb0910c95a248a9775cd.mp4' },
+  { image: 'https://kosred.com/a/lmgzpi.mp4' },
+  { image: 'https://kosred.com/a/vcgycm.mp4' }
 ]
