@@ -128,7 +128,7 @@
   {
   "index": 25,
     "autor": "rayhan",
-    "fgwork": "Kamu bekerja sebagai tidur seharian dan menghasilkan"
+    "fgwork": "Kamu bekerja hanya tidur seharian dan menghasilkan"
   }, 
   {
   "index": 26,
@@ -209,6 +209,11 @@
   "index": 41, 
     "autor": "rayhan",
     "fgwork": "Kamu bekerja sebagai peternak anjing dan menghasilkan"
+  },
+  {
+  "index": 42, 
+    "autor": "rayhan",
+    "fgwork": "Kamu malas bekerja dan menghasilkan"
   }
   
 ] 
