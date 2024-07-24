@@ -1,152 +1,52 @@
 [
-  {
-    "fgwork": "Kamu bekerja sebagai admin slot dan menghasilkan"
-  },
-  {
-    "fgwork": "Kamu bekerja sebagai admin judi online dan menghasilkan"
-  },
-  {
-    "fgwork": "Kamu bekerja sebagai tukang sayur dan menghasilkan"
-  },
-  {
-    "fgwork": "Kamu bekerja sebagai penjual barang curian dan menghasilkan"
-  },
-  {
-    "fgwork": "Kamu bekerja sebagai perampok dan menghasilkan"
-  },
-  {
-    "fgwork": "Kamu bekerja sebagai gamer dan menghasilkan"
-  },
-  {
-    "fgwork": "Kamu bekerja sebagai youtubers dan menghasilkan"
-  },
-  {
-    "fgwork": "Kamu bekerja sebagai pencuri dan menghasilkan"
-  },
-  {
-    "fgwork": "Kamu bekerja sebagai tiktokers dan menghasilkan"
-  },
-  {
-    "fgwork": "Kamu bekerja sebagai selebgram dan menghasilkan"
-  },
-  {
-    "fgwork": "Kamu bekerja sebagai curanmor dan menghasilkan"
-  },
-  {
-    "fgwork": "Kamu bekerja sebagai petugas hotel oyo dan menghasilkan"
-  },
-  {
-    "fgwork": "Kamu bekerja sebagai tumbal proyek dan menghasilkan"
-  },
-  {
-    "fgwork": "Kamu bekerja sebagai streamer dan menghasilkan"
-  },
-  {
-    "fgwork": "Kamu bekerja sebagai bintang youtube biru dan menghasilkan"
-  },
-  {
-    "fgwork": "Kamu bekerja sebagai pemain judi dan menghasilkan"
-  },
-  {
-    "fgwork": "Kamu bekerja sebagai affiliator judi dan menghasilkan"
-  },
-  {
-    "fgwork": "Kamu bekerja sebagai begal dan menghasilkan"
-  },
-  {
-    "fgwork": "Kamu bekerja sebagai pengangguran dan menghasilkan"
-  },
-  {
-    "fgwork": "Kamu bekerja sebagai bos pencuri dan menghasilkan"
-  },
-  {
-    "fgwork": "Kamu bekerja sebagai ojek online dan menghasilkan"
-  },
-  {
-    "fgwork": "Kamu bekerja sebagai penjual online dan menghasilkan"
-  },
-  {
-    "fgwork": "Kamu bekerja sebagai rentenir dan menghasilkan"
-  },
-  {
-    "fgwork": "Kamu bekerja sebagai tukang tipu dan menghasilkan"
-  },
-  {
-    "fgwork": "Kamu bekerja sebagai penjual celana dalam dan menghasilkan"
-  },
-  {
-    "fgwork": "Kamu bekerja hanya tidur seharian dan menghasilkan"
-  },
-  {
-    "fgwork": "Kamu bekerja sebagai makanan binatang buas dan menghasilkan"
-  },
-  {
-    "fgwork": "Kamu bekerja sebagai admin togel dan menghasilkan"
-  },
-  {
-    "fgwork": "Kamu bekerja sebagai tukang hutang dan menghasilkan"
-  },
-  {
-    "fgwork": "Kamu bekerja sebagai tukang parkir dan menghasilkan"
-  },
-  {
-    "fgwork": "Kamu bekerja sebagai pengamen dan menghasilkan"
-  },
-  {
-    "fgwork": "Kamu bekerja sebagai petani ganja dan menghasilkan"
-  },
-  {
-    "fgwork": "Kamu bekerja sebagai pembuat anak dan menghasilkan"
-  },
-  {
-    "fgwork": "Kamu bekerja sebagai pengemis dan menghasilkan"
-  },
-  {
-    "fgwork": "Kamu bekerja sebagai tukang sapu jalanan dan menghasilkan"
-  },
-  {
-    "fgwork": "Kamu bekerja sebagai bintang film dewasa dan menghasilkan"
-  },
-  {
-    "fgwork": "Kamu bekerja sebagai penonton tiktok dan menghasilkan"
-  },
-  {
-    "fgwork": "Kamu bekerja sebagai penonton youtube dan menghasilkan"
-  },
-  {
-    "fgwork": "Kamu bekerja sebagai streamer bigo live dan menghasilkan"
-  },
-  {
-    "fgwork": "Kamu bekerja sebagai streamer game dan menghasilkan"
-  },
-  {
-    "fgwork": "Kamu bekerja sebagai peternak babi dan menghasilkan"
-  },
-  {
-    "fgwork": "Kamu bekerja sebagai peternak anjing dan menghasilkan"
-  },
-  {
-    "fgwork": "Kamu malas bekerja dan menghasilkan"
-  },
-  {
-    "fgwork": "Kamu bekerja sebagai peternak kadal dan menghasilkan"
-  },
-  {
-    "fgwork": "Kamu bekerja bermain slot dan menghasilkan"
-  },
-  {
-    "fgwork": "Kamu bekerja sebagai selingkuhan dan menghasilkan"
-  },
-  {
-    "fgwork": "Kamu bekerja sebagai badut dan menghasilkan"
-  },
-  {
-    "fgwork": "Kamu bekerja sebagai bahan gabut dan menghasilkan"
-  },
-  {
-    "fgwork": "Kamu bekerja sebagai pelampiasan dan menghasilkan"
-  },
-  {
-    "fgwork": "Kamu bekerja sebagai developer game dan menghasilkan"
-  }
+    "admin slot",
+    "admin judi online",
+    "tukang sayur",
+    "penjual barang curian",
+    "perampok",
+    "gamer",
+    "youtubers",
+    "pencuri",
+    "tiktokers",
+    "selebgram",
+    "curanmor",
+    "petugas hotel oyo",
+    "tumbal proyek",
+    "streamer",
+    "bintang youtube biru",
+    "pemain judi",
+    "affiliator judi",
+    "begal",
+    "pengangguran",
+    "bos pencuri",
+    "ojek online",
+    "penjual online",
+    "rentenir",
+    "tukang tipu",
+    "penjual celana dalam",
+    "orang yang hanya tidur",
+    "makanan binatang buas",
+    "admin togel",
+    "tukang hutang",
+    "tukang parkir",
+    "pengamen",
+    "petani ganja",
+    "pembuat anak",
+    "pengemis",
+    "tukang sapu jalanan",
+    "bintang film dewasa",
+    "penonton tiktok",
+    "penonton youtube",
+    "streamer bigo live",
+    "streamer game",
+    "peternak babi",
+    "peternak anjing",
+    "pemalas bekerja",
+    "peternak kadal",
+    "pemain slot",
+    "selingkuhan",
+    "badut",
+    "bahan gabut",
+    "pelampiasan",
+    "developer game"
 ]
