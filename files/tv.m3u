@@ -276,7 +276,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/MOJIOChannel/mpd/MOJIOChannel.mpd
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
 
-#EXTINF:-1 tvg-id="NET TV - [Channel 116].id" group-title="Indonesia Channels" tvg-url="tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://static.mncnow.id/images/channel/b32939e5/00e6_r32.jpg",NET TV HD
+#EXTINF:-1 tvg-id="NET TV - [Channel 116].id" group-title="Indonesia Channels" tvg-url="tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://static.mncnow.id/images/channel/b32939e5/00e6_r32.jpg",NET TV HD (2)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/133/net/manifest.mpd
@@ -292,22 +292,15 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/ANTV/sa_dash_vmx/ANTV.mpd|Referer=
 https://op-group1-swiftservehd-1.dens.tv/s/s07/01.m3u8
 
 #EXTINF:-1 tvg-id="Daai TV" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be5a48505902/c86c1884dc50452aae2be2f0fd15d78f.jpg" group-title="Indonesia Channels",DAAI TV
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-#https://dacastmmd.mmdlive.lldns.net/dacastmmd/683cc426c19442a4ba31c53be5c963bb/chunklist_b2592000.m3u8?p=79&s=1714410879&e=1714410999&h=6fbcb544cf75502b6db2cdffab4f41b8
-
-#EXTINF:-1 tvg-id="Daai TV" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be5a48505902/c86c1884dc50452aae2be2f0fd15d78f.jpg" group-title="Indonesia Channels",DAAI TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-https://dacastmmd.mmdlive.lldns.net/dacastmmd/683cc426c19442a4ba31c53be5c963bb/chunklist_b2592000.m3u8?p=79&s=1714410879&e=1714410999&h=6fbcb544cf75502b6db2cdffab4f41b8
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservesd-1.dens.tv/s/s182/index2.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=DAAI_TV
 
 #EXTINF:-1 tvg-id="Rajawali TV" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://static.mncnow.id/images/channel/c8369888/3fdb_r32.jpg" group-title="Indonesia Channels",RTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=30384ee5424eab4afdff34d7a59e0ef9:5f3d2f2c194266ae9a28210f8976cbe0
 https://dsgtq5sngxkde.cloudfront.net/live/eds/RTV/sa_dash_vmx/RTV.mpd|Referer=https://www.visionplus.id/&user-agent=Android
-
-#EXTINF:-1 tvg-id="Rajawali TV" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://static.mncnow.id/images/channel/c8369888/3fdb_r32.jpg" group-title="Indonesia Channels",RTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://210.210.155.37/session/01ec4c78-827b-11ee-93b3-aa38b7050ceb/uq2663/h/h10/02.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="Kompas TV - [Channel 106].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_106.png" group-title="Indonesia Channels",Kompas TV HD
@@ -337,7 +330,6 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd|Re
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8
 
-
 #EXTINF:-1 group-title="Indonesia Channels" tvg-id="Sindo News TV HD - [Channel 434].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://static.mncnow.id/images/channel/1f476919/6c87_r32.jpg",SindoNews
 #KODIPROP:inputstream.adaptive.stream_headers=referer=&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -349,10 +341,6 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a31cf5136789514b7e12b9cc99307c84:980e54d671ffc2b2f4cf54e75cae0ac2
 https://dsgtq5sngxkde.cloudfront.net/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
-
-#EXTINF:-1 group-title="Indonesia Channels" tvg-id="iNews HD - [Channel 433].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_83.png",iNews
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-T285YD Build/LMY47V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-https://1a-inews.rctiplus.id/inews-sdi.mpd
 
 #EXTINF:-1 group-title="Indonesia Channels" tvg-id="IDX HD - [Channel 436].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/iBcm_IDX.jpg",IDX
 #EXTVLCOPT:http-referrer=https://visionplus.id
@@ -391,10 +379,6 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/TVRINasional/mpd/TVRINasional.mpd
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w657754957_b3884000_sleng.m3u8
 
-#EXTINF:-1 tvg-id="Nusantara TV" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Logo_ntv.png/1200px-Logo_ntv.png" group-title="Indonesia Channels",Nusantara TV
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-https://v5.siar.us/nusantaratv/live/chunks.m3u8
-
 #EXTINF:-1 tvg-id="Indonesiana TV" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI4MneSVgEtCTr1bTcY2db9hW6VFIv8XOoZg&usqp=CAU" group-title="Indonesia Channels",Indonesiana TV
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 https://dgwubfppws111.cloudfront.net/out/v1/667a86e35ddd496c886fa11598dc184d/index_1.m3u8
@@ -406,11 +390,6 @@ https://etv-cdn.kdb.co.id/GarudaTV-Stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IGIX3o8.jpg" group-title="Indonesia Channels",TV Kesehatan
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 https://5bf7b725107e5.streamlock.net/tvkesehatan/tvkesehatan/playlist.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/36/Liputan6com_2014.png" group-title="Indonesia Channels",Liputan 6
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-https://livestream.zazerconer.workers.dev/channel/UC1QpnGo11epfexw1bIiTHTg.m3u8
-
 
 <========================= HBO Group ===================================>
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
