@@ -1,3 +1,4 @@
+[![superXdev GitHub stats](https://github-readme-stats.vercel.app/api?username=RayhanZuck&theme=ayu-mirage)](https://github.com/RayhanZuck/JKT48)
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" style="display:block; margin:auto;" widht="1000"/>
