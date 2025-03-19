@@ -8,5 +8,10 @@
     "isi": "pala bapak kau",
     "type": "text",
     "owner": "6287751753538@s.whatsapp.net"
+  },
+  "apalah": {
+    "isi": "TypeError: Cannot read properties of undefined (reading 'split')\n    at file:///home/container/plugins/media-respon.js?update=1742405328543:40:60\n    at Array.map (<anonymous>)\n    at Object.handler (file:///home/container/plugins/media-respon.js?update=1742405328543:38:8)\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at Object.handler (file:///home/container/handler.js?update=1742405080050:456:21)",
+    "type": "text",
+    "owner": "6285766064200@s.whatsapp.net"
   }
 }
