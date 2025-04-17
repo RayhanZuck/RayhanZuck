@@ -1,4 +1,5 @@
 {
   "kode": "THURSDAY",
-  "limit": "300"
+  "limit": "300",
+  "exp": "10000"
 }
